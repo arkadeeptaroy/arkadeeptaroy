@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 154" role="img" aria-label="ARKA.OS: Product and educator case studies."><rect x="1" y="1" width="408" height="152" rx="9" fill="#0d1117" stroke="#30363d"/><g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><text x="19" y="26" font-size="11" fill="#8b949e">02 / PORTFOLIO</text><path d="M19 39H391" stroke="#30363d"/><text x="19" y="67" font-size="19" font-weight="700" fill="#58a6ff">ARKA.OS</text><text x="19" y="92" font-size="12" fill="#e6edf3">Product and educator case studies.</text><text x="19" y="132" font-size="11" fill="#a1aab7">HTML / CSS / JavaScript</text><path d="M375 113H388V126M388 113L372 129" fill="none" stroke="#58a6ff" stroke-width="1.5"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 194" role="img" aria-label="ARKA.OS | Problem: presenting product and educator work in one coherent space. Two tailored workspaces with shared content and direct project routes. | HTML / CSS / JavaScript / GitHub Pages">
+<rect x="1" y="1" width="838" height="192" rx="11" fill="#0d1117" stroke="#30363d"/>
+<rect x="14" y="14" width="216" height="166" rx="8" fill="#101924" stroke="#26384c"/>
+<g transform="translate(14 14)"><g font-family="ui-monospace, Menlo, monospace"><rect x="16" y="17" width="184" height="132" rx="7" fill="#0b1017" stroke="#33465c"/><path d="M16 41H200" stroke="#33465c"/><circle cx="28" cy="29" r="2.5" fill="#ff5f56"/><circle cx="38" cy="29" r="2.5" fill="#ffbd2e"/><circle cx="48" cy="29" r="2.5" fill="#27c93f"/><text x="190" y="33" font-size="8" text-anchor="end" fill="#8b949e">arka.os</text><text x="29" y="61" font-size="10" fill="#58a6ff">$ select workspace</text><rect x="28" y="73" width="160" height="25" rx="4" fill="#172b40" stroke="#416a9b"/><text x="39" y="89" font-size="10" fill="#e6edf3">01  Product Manager</text><rect x="28" y="106" width="160" height="25" rx="4" fill="#111b26" stroke="#26384c"/><text x="39" y="122" font-size="10" fill="#c9d1d9">02  Educator</text></g></g>
+<g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+<text x="252" y="28" font-size="11" letter-spacing="1.3" font-weight="600" fill="#8b949e">02 / PRODUCT PORTFOLIO / UX</text>
+<text x="252" y="58" font-size="26" font-weight="700" fill="#f0f6fc">ARKA.OS</text>
+<text x="252" y="87" font-size="13.5" fill="#9ca8b8">Problem: presenting product and educator work in one coherent space.</text>
+<text x="252" y="110" font-size="14" fill="#e6edf3">Two tailored workspaces with shared content and direct project routes.</text>
+<path d="M252 130H811" stroke="#30363d"/>
+<text x="252" y="153" font-size="11" font-weight="600" letter-spacing="0.8" fill="#58a6ff">STACK</text>
+<text x="306" y="153" font-size="12" fill="#c9d1d9">HTML / CSS / JavaScript / GitHub Pages</text>
+<text x="252" y="175" font-size="11" font-weight="600" fill="#58a6ff">View repository</text>
+<path d="M795 27H811V43M811 27L794 44" fill="none" stroke="#58a6ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

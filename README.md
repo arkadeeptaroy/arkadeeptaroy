@@ -1,27 +1,32 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Arkadeepta Roy — Product Manager, Educator and Builder" />
+<img src="assets/header.svg" width="100%" alt="Arkadeepta Roy | Product Manager and Educator" />
 
 [Portfolio](https://arkadeeptaroy.github.io/portfolio/) &nbsp; / &nbsp; [Repositories](https://github.com/arkadeeptaroy?tab=repositories) &nbsp; / &nbsp; [Writing](https://whenthemadmanwrites.wordpress.com/)
 
 </div>
 
-### `~/projects`
+I work at the intersection of product management, education and technology. My focus is on defining product requirements, designing practical workflows and building tools that solve operational and learning problems.
 
-<div align="center">
-<a href="https://github.com/arkadeeptaroy/ChapterGrade"><img src="assets/chaptergrade.svg" width="48%" alt="ChapterGrade — Readability screening for educational content" /></a>
-<a href="https://github.com/arkadeeptaroy/portfolio"><img src="assets/portfolio.svg" width="48%" alt="ARKA.OS — Personal portfolio and product case studies" /></a>
-</div>
+### Selected work
 
-### `~/workspace`
+<a href="https://github.com/arkadeeptaroy/ChapterGrade"><img src="assets/chaptergrade.svg" width="100%" alt="ChapterGrade. Readability screening for educational content using grade-specific scoring formulas and client-side document analysis. JavaScript, Vite, PDF.js, Mammoth." /></a>
 
-```text
-Product       Discovery / Roadmaps / Execution
-Education     Curriculum / Pedagogy / Assessment
-Building      JavaScript / HTML / CSS / Node.js
-```
+<a href="https://github.com/arkadeeptaroy/portfolio"><img src="assets/portfolio.svg" width="100%" alt="ARKA.OS. Product portfolio with separate Product Manager and Educator workspaces, shared content and direct project routes. HTML, CSS, JavaScript, GitHub Pages." /></a>
 
-### `~/activity`
+[View portfolio](https://arkadeeptaroy.github.io/portfolio/) &nbsp; / &nbsp; [All public repositories](https://github.com/arkadeeptaroy?tab=repositories)
+
+### Product practice
+
+| Discovery &amp; strategy | Execution &amp; delivery | Quality &amp; measurement |
+| :--- | :--- | :--- |
+| Problem framing, requirements, prioritisation | Roadmaps, milestones, cross-functional coordination | Acceptance criteria, quality frameworks, progress reporting |
+
+### Toolbox
+
+<img src="assets/toolbox.svg" width="100%" alt="Product operations: Google Docs, Google Sheets, Google Slides, Apps Script. Prototyping and development: JavaScript, HTML, CSS, Node.js. Build and delivery: GitHub, GitHub Actions, Render, Vite." />
+
+### Contribution activity
 
 <div align="center">
 
