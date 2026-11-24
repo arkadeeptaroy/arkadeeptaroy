@@ -17,8 +17,6 @@
 | Grub | Food logging and spending analytics with React, Tailwind CSS, Zustand and Supabase authentication and data storage. |
 | RecallBox | React-based content capture and retrieval app for categorising and searching links, notes and references. |
 
-FinLog, Grub and RecallBox have private source repositories. PDF Core is the live deployment of the private PDF compressor repository.
-
 ### Toolbox
 
 <img src="assets/toolbox.svg" width="100%" alt="WEB ENGINEERING: JavaScript, React, Next.js, Tailwind CSS, HTML, CSS. RUNTIME &amp; DATA: Node.js, Python, Supabase, Vite. LEARNING &amp; VISUAL DESIGN: Articulate Storyline, Adobe Illustrator, Adobe InDesign. AI &amp; DEVELOPER TOOLS: Antigravity, Ollama, Codex. DOCUMENT PROCESSING: PDF.js, Mammoth. TESTING &amp; DEPLOYMENT: Playwright, GitHub Actions, Render, GitHub Pages" />
