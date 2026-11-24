@@ -1,32 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 326" role="img" aria-labelledby="title desc">
-  <title id="title">Arkadeepta Roy | arka.os</title>
-  <desc id="desc">A terminal-style profile: Product Manager, Educator and Builder, working in education and technology.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" role="img" aria-labelledby="title desc">
+  <title id="title">arka.os | Arkadeepta Roy</title>
+  <desc id="desc">Neofetch terminal with the original lowercase a ASCII mark from ARKA.OS and a professional profile.</desc>
   <defs>
-    <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#10151c"/><stop offset="1" stop-color="#080a0d"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#101614"/><stop offset="1" stop-color="#080c0b"/></linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c0f8d2"/><stop offset=".55" stop-color="#8fe0ab"/><stop offset="1" stop-color="#58996e"/></linearGradient>
   </defs>
-  <rect x="1" y="1" width="838" height="324" rx="12" fill="url(#panel)" stroke="#30363d"/>
-  <path d="M13 1H827Q839 1 839 13V39H1V13Q1 1 13 1" fill="#161b22"/>
-  <path d="M1 39H839" stroke="#30363d"/>
-  <g><circle cx="24" cy="20" r="5.5" fill="#ff5f56"/><circle cx="43" cy="20" r="5.5" fill="#ffbd2e"/><circle cx="62" cy="20" r="5.5" fill="#27c93f"/></g>
+  <rect x="1" y="1" width="838" height="298" rx="10" fill="url(#panel)" stroke="#303b35"/>
+  <path d="M11 1H829Q839 1 839 11V34H1V11Q1 1 11 1Z" fill="#141b17"/>
+  <path d="M1 34H839" stroke="#303b35"/>
+  <g><circle cx="21" cy="17" r="4.5" fill="#ff5f56"/><circle cx="37" cy="17" r="4.5" fill="#ffbd2e"/><circle cx="53" cy="17" r="4.5" fill="#27c93f"/></g>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
-    <text x="420" y="24" text-anchor="middle" font-size="12" fill="#a1aab7">arka@github: ~</text>
-    <text x="28" y="69" font-size="14" fill="#58a6ff">$ <tspan fill="#e6edf3">neofetch</tspan></text>
-    <rect x="34" y="91" width="192" height="158" rx="8" fill="#0d1117" stroke="#222c39"/>
-    <text x="130" y="208" font-size="132" font-weight="700" text-anchor="middle" fill="#58a6ff">a</text>
-    <rect x="171" y="210" width="10" height="10" fill="#58a6ff"/>
-    <text x="130" y="270" text-anchor="middle" font-size="12" letter-spacing="4" fill="#9ca8b8">ARKA.OS</text>
-    <text x="257" y="105" font-size="24" font-weight="700" fill="#f0f6fc">Arkadeepta Roy</text>
-    <text x="257" y="128" font-size="13" fill="#58a6ff">arkadeepta@github</text>
-    <path d="M257 141H806" stroke="#30363d" stroke-dasharray="3 5"/>
-    <g font-size="15" fill="#58a6ff">
-      <text x="257" y="164">Role</text><text x="257" y="188">Domain</text><text x="257" y="212">Focus</text><text x="257" y="236">Projects</text>
+    <text x="420" y="21" text-anchor="middle" font-size="11" fill="#9ca8a0">arka@os:~/profile</text>
+    <text x="818" y="21" text-anchor="end" font-size="10" fill="#8a9a90">TTY / 01</text>
+    <text x="23" y="58" font-size="12"><tspan fill="#8fe0ab" font-weight="700">arka@os</tspan><tspan fill="#899b91">:~</tspan><tspan fill="#8fe0ab">$</tspan><tspan fill="#e1e9e4"> neofetch</tspan></text>
+    <g xml:space="preserve" font-size="13.2" font-weight="600" fill="url(#mark)">
+      <text x="35" y="81" xml:space="preserve">           .:+aaaaaaaaaa+:.</text>
+      <text x="35" y="94.4" xml:space="preserve">        .+aaaaaaaaaaaaaaaaa+.</text>
+      <text x="35" y="107.8" xml:space="preserve">       :aaaaaa+:-`    `-+aaaaa:</text>
+      <text x="35" y="121.2" xml:space="preserve">       `-:-`            /aaaaaa:</text>
+      <text x="35" y="134.6" xml:space="preserve">                   .-:+aaaaaaa:</text>
+      <text x="35" y="148" xml:space="preserve">             .:+aaaaaaaaaaaaa:</text>
+      <text x="35" y="161.4" xml:space="preserve">          .+aaaaaaaaaaaaaaaaa:</text>
+      <text x="35" y="174.8" xml:space="preserve">        :aaaaaa+:-`    /aaaaaa:</text>
+      <text x="35" y="188.2" xml:space="preserve">       /aaaaaa/        /aaaaaa:</text>
+      <text x="35" y="201.60000000000002" xml:space="preserve">      :aaaaaaa:        /aaaaaa:</text>
+      <text x="35" y="215" xml:space="preserve">      :aaaaaaa:        /aaaaaa:</text>
+      <text x="35" y="228.4" xml:space="preserve">       +aaaaaaa+.    .+aaaaaaa:</text>
+      <text x="35" y="241.8" xml:space="preserve">        `+aaaaaaaaaaaaa+aaaaa:</text>
+      <text x="35" y="255.20000000000002" xml:space="preserve">          `-:+aaaaaaa+-`  :aaa:</text>
     </g>
-    <g font-size="15" fill="#e6edf3">
-      <text x="355" y="164">Product Manager / Educator</text><text x="355" y="188">Education + Technology</text><text x="355" y="212">Product, systems, learning</text><text x="355" y="236">ChapterGrade / ARKA.OS</text>
+    <text x="169" y="275" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="3.2" fill="#8fe0ab">arka.os</text>
+    <path d="M314 76V259" stroke="#26372e"/>
+    <text x="339" y="84" font-size="15" font-weight="700" fill="#8fe0ab">arka<tspan fill="#d9e6df">@</tspan>os</text>
+    <text x="339" y="101" font-size="12" fill="#52685a">---------------------------------------------</text>
+    <g font-size="12.7" font-weight="600" fill="#8fe0ab">
+      <text x="339" y="122">Owner</text><text x="339" y="142">OS</text><text x="339" y="162">Role</text><text x="339" y="182">Focus</text><text x="339" y="202">Builds</text><text x="339" y="222">Experience</text><text x="339" y="242">Shell</text>
     </g>
-    <g transform="translate(257 253)"><rect width="26" height="11" rx="1" fill="#30363d"/><rect x="29" width="26" height="11" rx="1" fill="#7d8590"/><rect x="58" width="26" height="11" rx="1" fill="#c9d1d9"/><rect x="87" width="26" height="11" rx="1" fill="#f0f6fc"/><rect x="116" width="26" height="11" rx="1" fill="#1f6feb"/><rect x="145" width="26" height="11" rx="1" fill="#58a6ff"/></g>
-    <path d="M28 284H812" stroke="#242b35"/>
-    <text x="28" y="307" font-size="14" fill="#58a6ff">$</text><rect x="45" y="295" width="8" height="15" fill="#58a6ff"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.49;0.5;0.99;1" dur="1.2s" repeatCount="indefinite"/></rect>
-    <text x="812" y="307" text-anchor="end" font-size="11" fill="#8b949e">profile / main</text>
+    <g font-size="12.7" fill="#e3ece6">
+      <text x="435" y="122">Arkadeepta Roy</text><text x="435" y="142">arka.os</text><text x="435" y="162">Product Manager / Educator</text><text x="435" y="182">Discovery / Roadmap / Delivery</text><text x="435" y="202">AI workflows / EdTech / SaaS</text><text x="435" y="222">7+ years in education</text><text x="435" y="242">Portfolio CLI</text>
+    </g>
+    <g transform="translate(339 253)"><rect x="0" width="17" height="10" rx="1" fill="#273b30"/><rect x="19" width="17" height="10" rx="1" fill="#496758"/><rect x="38" width="17" height="10" rx="1" fill="#8fe0ab"/><rect x="57" width="17" height="10" rx="1" fill="#c0f8d2"/><rect x="76" width="17" height="10" rx="1" fill="#526b83"/><rect x="95" width="17" height="10" rx="1" fill="#79a9d8"/><rect x="114" width="17" height="10" rx="1" fill="#c2d7e9"/><rect x="133" width="17" height="10" rx="1" fill="#e3ece6"/></g>
+    <path d="M23 281H817" stroke="#26372e" stroke-dasharray="2 5"/>
+    <text x="817" y="275" text-anchor="end" font-size="10.5" fill="#8b9c91">profile / main</text>
+    <rect x="24" y="286" width="6" height="9" fill="#8fe0ab"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.49;0.5;0.99;1" dur="1.2s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
