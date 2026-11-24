@@ -1,38 +1,29 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="ARKA.OS Neofetch profile: Arkadeepta Roy, Product Manager and Educator" />
+<img src="assets/header.svg" width="100%" alt="ARKA.OS Neofetch profile: Arkadeepta Roy, Product Manager" />
 
-[Portfolio](https://arkadeeptaroy.github.io/portfolio/) &nbsp; / &nbsp; [Repositories](https://github.com/arkadeeptaroy?tab=repositories) &nbsp; / &nbsp; [Writing](https://whenthemadmanwrites.wordpress.com/)
+[Portfolio](https://arkadeeptaroy.github.io/portfolio/) &nbsp; / &nbsp; [Repositories](https://github.com/arkadeeptaroy?tab=repositories)
 
 </div>
 
-Product Manager working across education, AI-enabled workflows and SaaS.
-
 ### Selected work
 
-| Product / project | Technical overview |
+| Project | Technical overview |
 | :--- | :--- |
-| [Catalyst Publishing](https://arkadeeptaroy.github.io/portfolio/#/projects/03) | Grades 1–5 curriculum, textbooks, workbooks and assessment production aligned to NEP/NCF. |
-| [ChapterGrade](https://github.com/arkadeeptaroy/ChapterGrade) | Client-side PDF/DOCX readability and word-count analysis using Spache and Dale–Chall. |
-| [PDF Core](https://pdf-compressor-web-8xz1.onrender.com/) | PDF compression, document merging and PDF/PNG conversion. |
-| [LearnDex](https://arkadeeptaroy.github.io/portfolio/#/projects/02) | AI-assisted lesson planning based on individual learner profiles and instructional sequencing. |
-| [Synapse/lab](https://arkadeeptaroy.github.io/portfolio/#/projects/01) | Inclusive learning product grounded in Cognitive Load Theory and Universal Design for Learning. |
-| [AI Content Governance](https://arkadeeptaroy.github.io/portfolio/#/projects/05) | Structured LLM evaluation, schema validation, assessment alignment and human release gates. |
-| [Assessment Engine](https://arkadeeptaroy.github.io/portfolio/#/projects/07) | Bloom’s and RUAH-aligned assessment generation with JSON-schema and difficulty checks. |
-| [ContentOps Suite](https://arkadeeptaroy.github.io/portfolio/#/projects/08) | CSV-driven content automation, reusable prompt pipelines and human review checkpoints. |
-| [Tri-Axis Curriculum Bot](https://arkadeeptaroy.github.io/portfolio/#/projects/04) | Curriculum topic evaluation against three learning frameworks and inclusion criteria. |
-| [SRT Tool](https://arkadeeptaroy.github.io/portfolio/#/projects/06) | Python/Whisper subtitle generation and QA for English, Hindi and Bengali. |
-| [ARKA.OS](https://github.com/arkadeeptaroy/portfolio) | Terminal-based portfolio with two workspaces, shared content and hash-based routing. |
+| [ChapterGrade](https://github.com/arkadeeptaroy/ChapterGrade) | Client-side readability screening for PDF, DOCX and text using Spache and Dale–Chall, with word-count analysis. |
+| [PDF Core](https://pdf-compressor-web-8xz1.onrender.com/) · Live app | Browser-based PDF compression, merging and PNG conversion with a separate Python processing API. |
+| [ARKA.OS](https://github.com/arkadeeptaroy/portfolio) | Dual-workspace portfolio built in HTML, CSS and JavaScript, with hash routing and Playwright tests. |
 
-### Product practice
+#### Web experiments
 
-| Discovery &amp; strategy | Execution &amp; delivery | Quality &amp; measurement |
-| :--- | :--- | :--- |
-| Problem framing, requirements, prioritisation | Roadmaps, milestones, cross-functional coordination | Acceptance criteria, quality frameworks, progress reporting |
+| Project | Technical overview |
+| :--- | :--- |
+| [Do You Love Me?](https://github.com/arkadeeptaroy/mini_app_1) | Interactive single-page experiment with evasive button behaviour, pointer/touch events and CSS animations. |
+| [The Petty Voodoo Ritual](https://github.com/arkadeeptaroy/mini_app_2) | Interactive image hotspots, state-driven UI controls and particle animations in vanilla JavaScript. |
 
 ### Toolbox
 
-<img src="assets/toolbox.svg" width="100%" alt="Product operations: Google Docs, Google Sheets, Google Slides, Apps Script. Prototyping and development: JavaScript, HTML, CSS, Node.js. Build and delivery: GitHub, GitHub Actions, Render, Vite." />
+<img src="assets/toolbox.svg" width="100%" alt="Languages and web: JavaScript, HTML, CSS, Python. Application tooling: Node.js, Vite, PDF.js, Mammoth. Testing and delivery: Playwright, GitHub Actions, Render, GitHub Pages." />
 
 ### Contribution activity
 
