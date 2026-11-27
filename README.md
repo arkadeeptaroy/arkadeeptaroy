@@ -10,8 +10,10 @@
 
 | Project | Technical overview |
 | :--- | :--- |
-| [ChapterGrade](https://github.com/arkadeeptaroy/ChapterGrade) | Client-side PDF, DOCX and text readability screening using Spache and Dale–Chall, with word-count analysis. |
-| [PDF Core / PDF Compressor](https://pdf-compressor-web-8xz1.onrender.com/) | Browser-based PDF compression, merging and PNG conversion, with a separate Python processing API. |
+| [Anchor](https://github.com/arkadeeptaroy/Anchor) | Client-side regression protection engine using feature locks, dependency graphs, regression tests and acceptance criteria. |
+| [AI Model Comparison](https://github.com/arkadeeptaroy/Ulipsu-AI-Model-Comparison) | Static AI model evaluation dashboard for subtitle translation, with comparative scoring, translation evidence and cost analysis. |
+| [ChapterGrade](https://github.com/arkadeeptaroy/ChapterGrade) | Client-side PDF, DOCX and text readability screening using Spache and Dale–Chall, with subject-aware word-count analysis. |
+| [PDF Core / PDF Compressor](https://pdf-compressor-web-8xz1.onrender.com/) | Browser-local PDF compression, merging and bidirectional PNG conversion, with a separate Python processing API. |
 | [ARKA.OS](https://github.com/arkadeeptaroy/portfolio) | Dual-workspace web portfolio with terminal UI, hash routing and Playwright tests. |
 | FinLog | Mobile-first personal finance logger built with React and Vite, using localStorage persistence. |
 | Grub | Food logging and spending analytics with React, Tailwind CSS, Zustand and Supabase authentication and data storage. |
